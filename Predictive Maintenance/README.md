@@ -1,6 +1,6 @@
 # Predictive Maintenance
 
-Identifying and notifying the faults in a machine.
+Identifying and notifying the problems in a working machine.
 
 ### Components:
 Name | Quantity
